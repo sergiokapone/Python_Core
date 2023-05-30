@@ -1,3 +1,3 @@
-# Python_Core
+# GoIT Python Core
 
 Homeworks GoIT Python Core
