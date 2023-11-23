@@ -1,0 +1,7 @@
+_minted-code/
+__pycache__/
+archives/
+*.gz
+*.log
+*.out
+*.zip
