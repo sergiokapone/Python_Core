@@ -1,2 +1,3 @@
 # Типи даних у Python
-g
+
+1. [Аннотации Python](https://www.youtube.com/watch?v=cULVFnQ-ujg)
